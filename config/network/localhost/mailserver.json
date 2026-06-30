@@ -22,5 +22,29 @@
         "to": ["admin"],
         "title": "wtf are you kidding me?",
         "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+    },
+      {
+        "from": "Big Egg Party",
+        "to": ["8A73B5","145402","Z6B8AZ"],
+        "title": "Thank you for visiting our restaurant and joining the special “Big Egg Party” dining experience!",
+        "body": "Your presence is truly appreciated and serves as our greatest motivation to continuously improve both our cuisine and service. Through this themed menu, we aimed to bring you a warm, creative, and delightful culinary experience centered around a variety of egg-inspired dishes./nIf you have any feedback or suggestions regarding your visit, we would be more than happy to hear from you, as we are committed to ongoing improvement./nWe sincerely look forward to welcoming you again in the near future for another enjoyable dining experience.Thank you once again for your support and trust."
+    },
+    {
+        "from": "Ivan",
+        "to": ["Z6B8AZ"],
+        "title": "undefined",
+        "body": "How have you been lately?"
+    },
+    {
+        "from": "August",
+        "to": ["145402"],
+        "title": "What happend?!",
+        "body": "Are u OK?"
+    },
+     {
+        "from": "August",
+        "to": [""],
+        "title": "Your Jeep Wrangler Is Ready for Pickup",
+        "body": "Dear Edwin Simmons,/nWe are pleased to inform you that the service and repairs on your Jeep Wrangler have been completed./nYour vehicle has successfully passed all required inspections and is now ready for pickup at our service center./nPlease feel free to collect your vehicle during our business hours at your convenience. If you have any questions regarding the repairs performed or the final invoice, our team will be happy to assist you./nThank you for trusting us with your Jeep Wrangler. We appreciate your business and look forward to serving you again in the future.   Best regards,Named Auto Repair Shop"
     }
 ]
